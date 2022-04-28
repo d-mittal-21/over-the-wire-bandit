@@ -9,4 +9,5 @@ level 3: //use "<file name>" if there are spaces in the filename
 level 4,5,6,7,8: find . -type f -size <> -group <> ! -executable	//find the file with the mentioned properties
 level 9,10: string <filename> | grep "<>"	//search the file for the given string
 sort <filename> | uniq -c	//sort the data set in file according to the number of occurences.
-..................................	  
+..................................
+starting my second task now	  
